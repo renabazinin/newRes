@@ -1,10 +1,5 @@
 [
   {
-    "formattedHour": "03:13:12",
-    "titleWithLink": "[פיצוץ אדיר בגוש דן](https://rotter.net/forum/scoops1/858495.shtml)",
-    "title": "פיצוץ אדיר בגוש דן"
-  },
-  {
     "formattedHour": "03:13:25",
     "titleWithLink": "[פיצוץ או שיגור נשמע במרכז](https://rotter.net/forum/scoops1/858496.shtml)",
     "title": "פיצוץ או שיגור נשמע במרכז"
@@ -18,5 +13,10 @@
     "formattedHour": "03:24:51",
     "titleWithLink": "[דיווחים באזור גוש דן כרגע](https://rotter.net/forum/scoops1/858498.shtml)",
     "title": "דיווחים באזור גוש דן כרגע"
+  },
+  {
+    "formattedHour": "03:38:37",
+    "titleWithLink": "[פגיעת כטבם במבנה בתל אביב](https://rotter.net/forum/scoops1/858499.shtml)",
+    "title": "פגיעת כטבם במבנה בתל אביב"
   }
 ]
