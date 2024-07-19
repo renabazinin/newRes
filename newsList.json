@@ -1,10 +1,5 @@
 [
   {
-    "formattedHour": "03:20:18",
-    "titleWithLink": "[רשת Fox מפרסמת שהאיש שניסה להתנקש בדונאלד טראמפ לא הגיע עם הרובה ביום הירי אלא הטמין אותו מספר ימים לפני על הגג.](https://rotter.net/forum/scoops1/858497.shtml)",
-    "title": "רשת Fox מפרסמת שהאיש שניסה להתנקש בדונאלד טראמפ לא הגיע עם הרובה ביום הירי אלא הטמין אותו מספר ימים לפני על הגג."
-  },
-  {
     "formattedHour": "03:24:51",
     "titleWithLink": "[דיווחים באזור גוש דן כרגע](https://rotter.net/forum/scoops1/858498.shtml)",
     "title": "דיווחים באזור גוש דן כרגע"
@@ -18,5 +13,10 @@
     "formattedHour": "03:46:01",
     "titleWithLink": "[מאומת כלי טיס עוין התפוצץ בתל אביב](https://rotter.net/forum/scoops1/858500.shtml)",
     "title": "מאומת כלי טיס עוין התפוצץ בתל אביב"
+  },
+  {
+    "formattedHour": "03:49:22",
+    "titleWithLink": "[כלי טיס עוין פגע במבנה בתל אביב](https://rotter.net/forum/scoops1/858501.shtml)",
+    "title": "כלי טיס עוין פגע במבנה בתל אביב"
   }
 ]
