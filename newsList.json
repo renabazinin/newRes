@@ -1,10 +1,5 @@
 [
   {
-    "formattedHour": "15:12:05",
-    "titleWithLink": "[🚨צבע אדום (15:10): בית הלל, קריית שמונה🚨](https://rotter.net/forum/scoops1/859160.shtml)",
-    "title": "צבע אדום (15:10): בית הלל, קריית שמונה"
-  },
-  {
     "formattedHour": "15:22:39",
     "titleWithLink": "[רוני מאנה בהתבטאות חריפה: ''מעדיף שנועה ארגמני תישאר בשבי''](https://rotter.net/forum/scoops1/859161.shtml)",
     "title": "רוני מאנה בהתבטאות חריפה: ''מעדיף שנועה ארגמני תישאר בשבי''"
@@ -18,5 +13,10 @@
     "formattedHour": "15:29:48",
     "titleWithLink": "[כמה וכמה מרצים בכירים ממכון איינשטיין למתמטיקה באוניברסיטה העברית עוזבים לחו''ל](https://rotter.net/forum/scoops1/859163.shtml)",
     "title": "כמה וכמה מרצים בכירים ממכון איינשטיין למתמטיקה באוניברסיטה העברית עוזבים לחו''ל"
+  },
+  {
+    "formattedHour": "15:34:49",
+    "titleWithLink": "[לקראת נאומו של רה''מ נתניהו בקונגרס: גדרות הוצבו הלילה סביב גבעת הקפיטול בוושינגטון](https://rotter.net/forum/scoops1/859164.shtml)",
+    "title": "לקראת נאומו של רה''מ נתניהו בקונגרס: גדרות הוצבו הלילה סביב גבעת הקפיטול בוושינגטון"
   }
 ]
